@@ -1,0 +1,10 @@
+.izquierda{
+	width: 30%;
+	display: block;
+}
+.derecha{
+	width: 70%;
+}
+.app{
+	display: flex;
+}
